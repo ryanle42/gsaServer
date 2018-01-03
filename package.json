@@ -1,0 +1,15 @@
+{
+  "name": "gsabackend",
+  "version": "1.0.0",
+  "description": "Backend for the gsaApp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Le",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
